@@ -24,12 +24,33 @@ actuellement un **stage en développement logiciel pour 2026**.
 
 ### Stack
 
-| | |
-|:--|:--|
-| **Mobile** | Swift · SwiftUI · AppKit |
-| **Langages** | Java · Kotlin · C · SQL |
-| **Web** | HTML/CSS · JavaScript · React · Vite |
-| **Outils** | Git · Linux · UML · Maven · Gradle |
+**Mobile**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,apple&theme=light">
+  <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" alt="Swift, Apple">
+</picture>
+
+**Langages**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,kotlin,c,mysql&theme=light">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,c,mysql&theme=dark" alt="Java, Kotlin, C, SQL">
+</picture>
+
+**Web**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS">
+</picture>
+
+**Outils**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,linux,maven,gradle,vscode&theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,maven,gradle,vscode&theme=dark" alt="Git, GitHub, Linux, Maven, Gradle, VS Code">
+</picture>
 
 <br>
 
