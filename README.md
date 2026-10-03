@@ -27,15 +27,15 @@ actuellement un **stage en développement logiciel pour 2026**.
 **Mobile**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,apple&theme=light">
-  <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" alt="Swift, Apple">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,androidstudio&theme=light">
+  <img src="https://skillicons.dev/icons?i=swift,androidstudio&theme=dark" alt="Swift, Android Studio">
 </picture>
 
 **Langages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,kotlin,c,mysql&theme=light">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,c,mysql&theme=dark" alt="Java, Kotlin, C, SQL">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,kotlin,python,c,mysql&theme=light">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,mysql&theme=dark" alt="Java, Kotlin, Python, C, SQL">
 </picture>
 
 **Web**
@@ -43,6 +43,13 @@ actuellement un **stage en développement logiciel pour 2026**.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=light">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS">
+</picture>
+
+**Design**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,photoshop&theme=light">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,photoshop&theme=dark" alt="Figma, Canva, Photoshop">
 </picture>
 
 **Outils**
